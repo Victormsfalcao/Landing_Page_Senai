@@ -20,7 +20,7 @@ Este projeto é uma landing page desenvolvida para o Senai, com foco em design m
 1. Clone o repositório ou baixe os arquivos.
 2. Abra o arquivo `index.html` em seu navegador.
 3. Certifique-se de que as pastas `styles/`, `images/` e `components/fonts/` estejam no mesmo diretório do `index.html`.
-
+4. Se preferir acesse o seguinte link: [https://landingvictor.netlify.app/](url)
 ## Personalização
 
 - Para alterar fontes, edite os arquivos em `components/fonts/`.
